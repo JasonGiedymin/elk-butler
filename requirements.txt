@@ -1,0 +1,4 @@
+pytest==2.9.1
+requests==2.9.1
+requests-mock==0.7.0
+elasticsearch==2.3.0
